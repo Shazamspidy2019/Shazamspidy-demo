@@ -4,3 +4,6 @@ This is my first GIT Repository
 I'm happy to share
 <br>
 I loving it
+<br>
+Author - Jaskirat Singh
+Director - Aditya Dhar
